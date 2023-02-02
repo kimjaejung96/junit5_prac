@@ -3,7 +3,6 @@ package com.jj.junit5_prac.controller;
 
 import com.jj.junit5_prac.model.dto.Member;
 import com.jj.junit5_prac.service.HelloService;
-import com.jj.junit5_prac.service.impl.HelloServiceImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
